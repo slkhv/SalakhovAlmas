@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SalakhovAlmas
+- 👀 I’m interested in coding & designing 
+- 🌱 I’m currently working as web developer & designer, but now creating new Modulxter - framework for PHP, will avialable soon
+- 📫 How to reach me email: a@slkhv.com
